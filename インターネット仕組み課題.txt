@@ -1,0 +1,15 @@
+Webブラウザ
+DNS
+IPアドレス
+Webサーバ
+HTTPリクエスト
+HTTPレスポンス
+
+webブラウザでhttp://www.yahoo.co.jpにアクセスする時
+
+webブラウザがdnsで管理されたwww.yahoo.co.jpのipアドレスが割り当てられたwebサーバにhttpリクエストを送る
+
+webサーバがhttpレスポンスをwebブラウザに返す
+
+webブラウザはレスポンスで返されたhtmlを読み込みwebページを表示する
+
