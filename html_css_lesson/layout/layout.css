@@ -1,0 +1,21 @@
+header {
+    background-color: #ffdddd;
+}
+nav ul li {
+    display: inline-block;
+}
+#wrapper {
+    display: flex;
+}
+#main {
+    width: 34%;
+    background-color: #ddffdd;
+}
+aside {
+    width: 33%;
+    background-color: #ffddff;
+}
+footer {
+    height: 50px;
+    background-color: #ddddff;
+}

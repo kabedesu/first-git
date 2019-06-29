@@ -1,0 +1,33 @@
+/*====== margin解除 =====*/
+body,h1,ul,p {margin: 0;}
+
+/*===== 背景色設定 ======
+    header
+    #main
+    #menu
+    footer
+======================*/
+header {background-color: #ffcccc;}
+
+#main {background-color: #ccffcc;}
+
+#menu {background-color: #ccccff;}
+
+footer {background-color: #ffccff;}
+
+/*===== メイン設定 =====
+    body
+    #wrapper
+    #main
+    #menu
+=====================*/
+body {width: 1000px;}
+
+#wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+#main {width: 700px;}
+
+#menu{width: 300px;}

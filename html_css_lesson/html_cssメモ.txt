@@ -1,0 +1,4 @@
+===== Q&A =====
+HTML/CSS13.CSSチュートリアルでuser-agent margin-blockがあるので消さないとテキスト通りにならない<figure>にmarginがつく
+
+<br>はレイアウトのためには使わない
